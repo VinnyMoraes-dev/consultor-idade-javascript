@@ -7,6 +7,8 @@ Eu utilizei a estrutura de condição (if, else if e else) em cada gênero para 
 
 Eu também utilizei a edição básica do Photoshop para editar as imagens (elementos de contorno circular, formato dos arquivos em PNG-24 e elementos de pintura para capturar o código RGB e atribuir no JavaScript).
 
+Link: https://vinnymoraes-dev.github.io/consultor-idade-javascript/
+
 ![javasrcipt-consultor-idade](https://user-images.githubusercontent.com/56524332/191486478-29a274d0-f04c-4eff-b01a-b864e7d6d563.JPG)
 
 ![javasrcipt-consultor-idade02](https://user-images.githubusercontent.com/56524332/191487173-68838ade-d39f-4982-8c96-dc97860d285e.JPG)
@@ -25,4 +27,3 @@ Eu também utilizei a edição básica do Photoshop para editar as imagens (elem
 
 ![javasrcipt-consultor-idade09](https://user-images.githubusercontent.com/56524332/191487270-fe46b0b1-2f49-415c-884f-89ae890248aa.JPG)
 
-Link: https://vinnymoraes-dev.github.io/consultor-idade-javascript/
